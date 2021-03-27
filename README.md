@@ -4,7 +4,7 @@
 
 ## Download package and it's dependencies
 
-### npm install
+### npm i
 
 ## Run app
 
