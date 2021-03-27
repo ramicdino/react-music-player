@@ -1,6 +1,5 @@
 {
-  "homepage": "http://ramicdino.github.io/react-music-player-app",
-  "name": "music-player",
+  "name": "react-music-player-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
